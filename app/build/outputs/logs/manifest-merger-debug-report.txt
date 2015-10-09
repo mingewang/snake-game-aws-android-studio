@@ -1,0 +1,520 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+	xmlns:amazon
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionName
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:6:5-30
+	android:versionCode
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-games:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.shamanland:facebook-android-sdk:3.15.0-SNAPSHOT] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.shamanland/facebook-android-sdk/3.15.0-SNAPSHOT/AndroidManifest.xml:17:5-72
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+		INJECTED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:14:5-81
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:15:4-70
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/AndroidManifest.xml:21:5-70
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:15:21-67
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:16:5-74
+MERGED from [com.google.android.gms:play-services-wallet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/AndroidManifest.xml:22:5-73
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:16:22-71
+application
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:18:5-77:19
+MERGED from [com.google.android.gms:play-services:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.shamanland:facebook-android-sdk:3.15.0-SNAPSHOT] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.shamanland/facebook-android-sdk/3.15.0-SNAPSHOT/AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:22.2.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:19:9-45
+	android:theme
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:21:9-40
+activity#com.amazon.example.snake.LoginActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:22:9-32:20
+	android:screenOrientation
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:23:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.amazon.example.snake.SnakeGameActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:34:13-70
+activity#com.amazon.example.snake.GameOverScreenActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:37:9-40:20
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:39:7-39
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:38:13-75
+activity#com.amazon.example.snake.SplashScreenActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:41:10-44:20
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:42:13-73
+activity#com.facebook.LoginActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:46:9-49:21
+	android:label
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:47:13-54
+activity#com.amazon.identity.auth.device.authorization.AuthorizationActivity
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:51:10-65:20
+	android:launchMode
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:55:13-44
+	android:allowTaskReparenting
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:54:13-48
+	android:theme
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:53:13-59
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:52:13-95
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:56:13-64:29
+action#android.intent.action.VIEW
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:57:17-69
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:57:25-66
+category#android.intent.category.DEFAULT
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:59:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:60:17-78
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:60:27-75
+data
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:61:17-63:45
+	android:host
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:62:21-60
+	android:scheme
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:63:21-42
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:67:10-69:55
+	android:value
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:69:13-52
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:68:13-58
+meta-data#APIKey
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:71:9-73:52
+	android:value
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:73:13-49
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:72:13-34
+meta-data#com.google.android.gms.version
+ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:75:9-122
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:75:66-119
+	android:name
+		ADDED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:75:20-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:30:9-31:52
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:30:9-31:52
+MERGED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/AndroidManifest.xml:30:19-91
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:23:5-25:33
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/AndroidManifest.xml:25:8-31
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /data4/Development/aws/snake-game-aws-android-studio/app/src/main/AndroidManifest.xml:2:1-79:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/AndroidManifest.xml:21:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:34:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.1.0] /data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/AndroidManifest.xml:42:11-82

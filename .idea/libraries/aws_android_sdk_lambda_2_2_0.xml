@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aws-android-sdk-lambda-2.2.0">
+    <CLASSES>
+      <root url="jar:///data4/Development/aws/snake-game-aws-android-studio/app/libs/aws-android-sdk-lambda-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

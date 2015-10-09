@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.amazon.example.snake"
+        minSdkVersion 15
+        targetSdkVersion 23
+        // Enabling multidex support.
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+    maven {
+        url 'https://oss.sonatype.org/content/groups/public'
+    }
+
+}
+
+dependencies {
+   // compile 'com.android.support:support-v4:19.1.0'
+    compile files('libs/aws-android-sdk-cognito-2.2.0.jar')
+    compile files('libs/aws-android-sdk-core-2.2.0.jar')
+    compile files('libs/aws-android-sdk-ddb-2.2.0.jar')
+    compile files('libs/aws-android-sdk-ddb-mapper-2.2.0.jar')
+    compile files('libs/aws-android-sdk-kinesis-2.2.0.jar')
+    compile files('libs/aws-android-sdk-lambda-2.2.0.jar')
+    compile files('libs/aws-android-sdk-mobilenalytics-2.2.0.jar')
+    compile files('libs/aws-android-sdk-s3-2.2.0.jar')
+    compile files('libs/aws-android-sdk-sns-2.2.0.jar')
+    compile files('libs/login-with-amazon-sdk.jar')
+    compile 'com.google.android.gms:play-services:8.1.0'
+    //compile 'com.facebook.android:facebook-android-sdk:3.15.0'
+    //compile 'com.facebook.android:facebook-android-sdk:4.7.0'
+    //compile 'com.shamanland:facebook-android-sdk:3.15.0'
+    compile 'com.shamanland:facebook-android-sdk:3.15.0-SNAPSHOT'
+}

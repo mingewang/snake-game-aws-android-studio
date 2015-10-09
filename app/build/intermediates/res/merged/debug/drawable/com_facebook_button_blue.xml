@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <item
+      android:drawable="@drawable/com_facebook_button_blue_pressed"
+      android:state_focused="true"
+      android:state_pressed="true"
+      />
+  <item
+      android:drawable="@drawable/com_facebook_button_blue_pressed"
+      android:state_focused="false"
+      android:state_pressed="true"
+      />
+  <item
+      android:drawable="@drawable/com_facebook_button_blue_focused"
+      android:state_focused="true"
+      />
+  <item
+      android:drawable="@drawable/com_facebook_button_blue_normal"
+      android:state_focused="false"
+      android:state_pressed="false"
+      />
+
+</selector>
+<!-- From: file:/home/main/Projects/facebook-android-sdk/facebook/res/drawable/com_facebook_button_blue.xml --><!-- From: file:/data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.shamanland/facebook-android-sdk/3.15.0-SNAPSHOT/res/drawable/com_facebook_button_blue.xml -->

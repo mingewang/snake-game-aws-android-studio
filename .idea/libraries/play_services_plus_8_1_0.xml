@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="play-services-plus-8.1.0">
+    <CLASSES>
+      <root url="jar:///data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar!/" />
+      <root url="file:///data4/Development/aws/snake-game-aws-android-studio/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

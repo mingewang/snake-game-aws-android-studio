@@ -1,0 +1,21 @@
+-keep class null {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.amazon.example.snake.LoginActivity { <init>(); }
+-keep class com.amazon.example.snake.SnakeGameActivity { <init>(); }
+-keep class com.amazon.example.snake.GameOverScreenActivity { <init>(); }
+-keep class com.amazon.example.snake.SplashScreenActivity { <init>(); }
+-keep class com.facebook.LoginActivity { <init>(); }
+-keep class com.amazon.identity.auth.device.authorization.AuthorizationActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementContentProvider { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}

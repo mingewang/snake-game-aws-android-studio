@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///data4/Development/aws/snake-game-aws-android-studio/app/app.iml" filepath="/data4/Development/aws/snake-game-aws-android-studio/app/app.iml" />
+      <module fileurl="file:///data4/Development/aws/snake-game-aws-android-studio/snake-game-aws-android-studio.iml" filepath="/data4/Development/aws/snake-game-aws-android-studio/snake-game-aws-android-studio.iml" />
+    </modules>
+  </component>
+</project>

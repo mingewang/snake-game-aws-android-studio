@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-96a8f72a1d57aa65ece5dbc758ed9bd1b9085304.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-ebb110e04c475ac6f8fd5ec6ad82c99646742fec.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-638cbf17a57cc90465fbc39b5e94e585b9890275.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-bde36d333469995bac3eaefbd627bdc4a1e42303.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-ddb-mapper-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="111b56e0459b50c8215500f3cbf721712e9be013">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-mapper-2.2.0-dbcfcacc02784848e90c3f1966fb3683f03885dd.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-f35c2ca4b356d0ae4e43344e756bc7b8e7d7a691.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-92e465f5ff4560a7ed2fcd96857fed70aac0e325.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-mobilenalytics-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7b25606df5c96f8181ec63d7d1c3b4697d4beda0">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-mobilenalytics-2.2.0-b49822c9ef612f70ed57ce61f6c133db353914c0.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-ddb-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="46133f2b4d4b3daa87589d29d018e7947fd9859c">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-ddb-2.2.0-00c906882fd9b279479e7a5322a2acf73bd03907.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-6c37947ffa0042cb21b20f827c21a0e9ee927ddb.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-70ad536d5984240aab324d2ebe5d385c886cd217.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/login-with-amazon-sdk.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="94aebc73634b2bf44de83a51408dfd432f935c11">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/login-with-amazon-sdk-333ba5dead574a5518c36cde59671cefcb2763ec.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-45015a61b5d565edea0e409ccab2e31cf0b42f31.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-5a32715ee05d48e6dc0a01b7d100a35e7e97914e.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-1f395ff106e373cb736934709f5132b7cc4afbf1.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.shamanland/facebook-android-sdk/3.15.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c8e3f1db296821ece4304639310666c1b584fa8d">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-6291db47df38c2e0a6838ddcbf75f693fe8fbd7a.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-core-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b51984d76b31f5bf7e9d15783775506d8c81cd1">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.0-b3e10d84563f08160c18fd465012cfcac427c828.jar" />
+    </item>
+    <item
+        jar="/home/mwang/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-67241ccdabe610ca72ce7c05c8afebafb57a05b7.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-7ce532daaa59e2b5dea05ef9c112a2fbfda5661c.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-61df3216dbfdc133016797b59a539e6f3dd78a9f.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-9ad3ae9e1c0f74493d98db53bc0e56d655f1abb7.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-sns-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="697136d0d8d3fae01f28aa6461189333342c3a42">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-sns-2.2.0-1f2ca147d2d964fe1c4f75d64329247215bb6ca1.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-8baf1de30744fd599ab4a42b102f997588e7dace.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-e2ecb1b8f003e90583851589c1c7233d0baf0578.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-s3-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8b2838bf60d103f44aa96baaa8f678e045cd0fc2">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.0-30819c044f6379a0b67836e9281550d15f3de08f.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-89dd36b6d17a32462491c452db6422fc0a48f305.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-lambda-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4f98ae54ad37a6942da88cdbd62a0575e3257fb0">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-lambda-2.2.0-6801ff4569f34cd2cabb2a90d3eaba950c3bb1e9.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-e54690cf726072a8122ee4ed3dda803ab31f2b39.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-3b12aab76ca7f3f406df40af020d2b4b257689c1.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-459458d338debc587dfea27083469120cce8e580.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-52d575eca0ae90922b894b4e2f3a5c01823e5a7f.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-2dc39ea92ddeba35f1cc5485fe335bc77a183132.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-86d85ec07fea5e91e218dcfaaa174bb5e208cf77.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-0780166c367fb7b6a740b3471a6cbd2e9476a69f.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-cognito-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a9e5b48b569c2fb1b5bfb9243b76a51e4b00a467">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.2.0-30fcd2b632934afe72a706489421aa8f5a6a404f.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/libs/aws-android-sdk-kinesis-2.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca6d1dc4a993093ee1d6dfe04d6b8a357c2cd282">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/aws-android-sdk-kinesis-2.2.0-f9a95533edfe1143342b189f0e4100d1dff9cb8e.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-c8ad62df943ffd255d82f909d496650f0c9e0b36.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.shamanland/facebook-android-sdk/3.15.0-SNAPSHOT/jars/libs/bolts.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1e5ba33c837d05dcca9dc40a0ab458f8599d7aef">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/bolts-e02a5b3fdd467b0a88fa7681709aeefcca3c5bd8.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-05918e2be2dc6a090d95d9411a21e09d0252fd3a.jar" />
+    </item>
+    <item
+        jar="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/data4/Development/aws/aws-sdk-android-samples/Snake Game - AWS/app/build/intermediates/pre-dexed/debug/classes-9f3b7cd0e1fdabe1aba7b9a3bb761790f65e9fff.jar" />
+    </item>
+
+</items>
